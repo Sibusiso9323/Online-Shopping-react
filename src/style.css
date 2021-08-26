@@ -45,6 +45,9 @@ h1, p {
 }
 
 
+p{
+  color: red;
+}
 
 @media (prefers-redused-motion: no preference){
   .App-logo{
